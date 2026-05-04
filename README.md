@@ -4,7 +4,7 @@ An automated n8n workflow designed to generate and publish engaging content abou
 
 ---
 ### 🛠 System Architecture
-![CryptoMind Architecture](изображение_2026-04-28_010542796.png)
+![CryptoMind Architecture](Gemini_Generated_Image_a1yby3a1yby3a1yb.png)
 
 
 ## ⏱️ How It Works
